@@ -31,7 +31,7 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Griffin Wirth"
   namecolor: ffc107
   profession: "Profession"
   github: "https://github.com"
