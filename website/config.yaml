@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Griffin's Profile"
 theme: "./.."
 relativeURLs: true
 
@@ -21,9 +21,10 @@ params:
   version: 3
 
   favicon: "/images/Wirth_Pic.jpg"
-  description: "A high performance hugo theme for personal portfolio and blog."
+  description: ""
 
   # Navbar Menus
+  disable_Navbar Menus: true 
   customMenus:
     - name: "Blog"
       Url: "/blog"
@@ -35,7 +36,7 @@ params:
   namecolor: ffc107
   profession: "Integrative Informatics"
   github: "https://github.com"
-  gitlab: "https://gitlab.com"
+  email: "mailto:griffiniwirth@gmail.com"
   linkedin: "https://linkedin.com" 
 
   # About
@@ -43,14 +44,14 @@ params:
   descripe_l1_person: "Hi, I'm Griffin and I'm a student at Allegheny College. I am a Integrative Informatics major, with a focus in media and visual production."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
+    - name: Python
+      percentage: 60
+    - name: R
       percentage: 85
-    - name: Hugo
+    - name: Windows
       percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: Adobie Creative Suit
+      percentage: 90
 
   # Experience
   disable_experience: false
@@ -63,9 +64,9 @@ params:
       featuredpoints:
         - point: An introduction to the principles of computer science
         - point: Introduction class into Python
-      role: "Computational Expression"
-      startdate: September 2020
-      enddate: December 2020
+      role: "Data Abstraction"
+      startdate: February 2021
+      enddate: May 2021
       featuredpoints:
         - point: An introduction to the principles of computer science
         - point: Introduction class into Python
@@ -133,7 +134,7 @@ params:
   # Contact
   disable_contact: false
   contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  email: "griffiniwirth@gmail.com"
 
   # Footer
   socialiconfooter: true
@@ -141,4 +142,4 @@ params:
 
   # Blog
   showdescription: false
-  tweet: true
+  tweet: false
