@@ -30,16 +30,13 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
+  profile_image: "/images/Wirth_Pic.jpg"
   name: "Griffin Wirth"
   namecolor: ffc107
-  profession: "Integrated Infromatics"
+  profession: "Integrative Informatics"
   github: "https://github.com"
   gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  linkedin: "https://linkedin.com" 
 
   # About
   disable_about: false
@@ -60,6 +57,12 @@ params:
   experience:
     - company: "Computer Science Classes"
       # id: "Computer Science Classes"   // use this, when you want to change the id(used for navigation)
+      role: "Computational Expression"
+      startdate: September 2020
+      enddate: December 2020
+      featuredpoints:
+        - point: An introduction to the principles of computer science
+        - point: Introduction class into Python
       role: "Computational Expression"
       startdate: September 2020
       enddate: December 2020
