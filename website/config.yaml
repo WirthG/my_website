@@ -20,7 +20,7 @@ enableEmoji: true
 params:
   version: 3
 
-  favicon: "/images/fav.png"
+  favicon: "/images/Wirth_Pic.jpg"
   description: "A high performance hugo theme for personal portfolio and blog."
 
   # Navbar Menus
