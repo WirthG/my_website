@@ -30,7 +30,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/Wirth_Pic.jpg"
+  profile_image: "images/Wirth_Pic.jpg"
   name: "Griffin Wirth"
   namecolor: ffc107
   profession: "Integrative Informatics"
