@@ -33,7 +33,7 @@ params:
   profile_image: "/images/profile.png"
   name: "Griffin Wirth"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Integrated Infromatics"
   github: "https://github.com"
   gitlab: "https://gitlab.com"
   linkedin: "https://linkedin.com"
@@ -43,7 +43,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi, I'm Griffin and I'm a student at Allegheny College. I am a Integrative Informatics major, with a focus in media and visual production."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: CSS
@@ -58,24 +58,24 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
-      # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
-      enddate: present
+    - company: "Computer Science Classes"
+      # id: "Computer Science Classes"   // use this, when you want to change the id(used for navigation)
+      role: "Computational Expression"
+      startdate: September 2020
+      enddate: December 2020
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
+        - point: An introduction to the principles of computer science
+        - point: Introduction class into Python
+    - company: "Other Classes "
+      # id: "Other Classes" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Mar 2020
       enddate: Dec 2020
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-    - company: "Amazon"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
+    - company: "Internship"
+      # id: "Internship" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Feb 2019
       enddate: Jan 2020
