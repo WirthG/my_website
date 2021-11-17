@@ -42,7 +42,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hi, I'm Griffin and I'm a student at Allegheny College. I am a Integrative Informatics major, with a focus in media and visual production."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l2_person: "If you want to find out more about me through my projects, you can find my works [here].(#projects) If you want to get in touch with me then you can email me here. "
   skills:
     - name: Python
       percentage: 40
@@ -61,13 +61,6 @@ params:
       role: "Computational Expression"
       startdate: September 2020
       enddate: December 2020
-      featuredpoints:
-        - point: An introduction to the principles of computer science
-        - point: Introduction class into Python
-      # id: "Data Abstraction"
-      role: "Data Abstraction"
-      startdate: February 2021
-      enddate: May 2021
       featuredpoints:
         - point: An introduction to the principles of computer science
         - point: Introduction class into Python
