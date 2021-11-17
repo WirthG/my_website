@@ -45,9 +45,9 @@ params:
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: Python
-      percentage: 60
+      percentage: 40
     - name: R
-      percentage: 85
+      percentage: 55
     - name: Windows
       percentage: 80
     - name: Adobie Creative Suit
@@ -64,6 +64,7 @@ params:
       featuredpoints:
         - point: An introduction to the principles of computer science
         - point: Introduction class into Python
+      # id: "Data Abstraction"
       role: "Data Abstraction"
       startdate: February 2021
       enddate: May 2021
