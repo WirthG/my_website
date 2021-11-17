@@ -43,7 +43,6 @@ params:
   disable_about: false
   descripe_l1_person: "Hi, I'm Griffin and I'm a student at Allegheny College. I am a Integrative Informatics major, with a focus in media and visual production."
   descripe_l2_person: "If you want to find out more about me through my projects, you can find my works" [here](#projects)
-  descripe_13_person: "If you want to get in touch with me then you can email me here."
   skills:
     - name: Python
       percentage: 40
