@@ -46,9 +46,9 @@ params:
   descripe_l3_person: "If you want to get in touch with me, my email is here" 
   skills:
     - name: Python
-      percentage: 40
-    - name: R
       percentage: 55
+    - name: R
+      percentage: 40
     - name: Windows
       percentage: 80
     - name: Adobie Creative Suit
@@ -58,11 +58,11 @@ params:
   disable_experience: false
   experience:
     - company: "Computer Science Classes"
-      # id: "Computer Science Classes"   // use this, when you want to change the id(used for navigation)
-      role: "Computational Expression"
+      # id: "Computational Expression, Data Analytics, Data Abstraction"   // use this, when you want to change the id(used for navigation)
+      role: "Using Python and R"
       startdate: September 2020
-      enddate: December 2020
-      featuredpoints:
+      enddate: December 2021
+      featuredpoints: Test
         - point: An introduction to the principles of computer science
         - point: Introduction class into Python
     - company: "Other Classes "
