@@ -54,27 +54,27 @@ params:
     - name: Adobie Creative Suit
       percentage: 90
 
-  # Experience
+  # Other
   disable_experience: false
   experience:
     - company: "Computer Science Classes"
-      id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
+      # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
       role: "Computational Expression, Data Analytics, Data Abstraction"
-      startdate: September 2020
-      enddate: December 2021
+      startdate: Sep 2020
+      enddate: Dec 2021
       featuredpoints: 
         - point: All three classes taken during first and second year.
         - point: Introduction class into Python(Computational Expression & Data Abstraction) and R(Data Analytics).
     - company: "Other Classes"
-      id: "Other Classes" // use this, when you want to change the id(used for navigation)
+      # id: "Other Classes" // use this, when you want to change the id(used for navigation)
       role: " Introduction to Media Culture, Electronic & Intermedia Art"
-      startdate: September 2020
-      enddate: Feburary 2021
+      startdate: Sep 2020
+      enddate: Feb 2021
       featuredpoints:
         - point: Media Culture Class - explore the role media play in our everyday lives and study the ways media participate in the shaping of identities and cultures.
         - point: Electronic & Intermedia Art - Using electronic technologies/software and digital media as art-making tools. Awareness of the elements of 2D design/composition and the vocabulary used to describe it.
     - company: "Internship"
-      id: "Internship" // use this, when you want to change the id(used for navigation)
+      # id: "Internship" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
       startdate: Feb 2019
       enddate: Jan 2020
