@@ -54,10 +54,10 @@ params:
     - name: Adobie Creative Suit
       percentage: 90
 
-  # Other
+  # Experience
   disable_experience: false
   experience:
-    - company: "Computer Science Classes"
+    - company: "Classes"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
       role: "Computational Expression, Data Analytics, Data Abstraction"
       startdate: Sep 2020
@@ -65,7 +65,7 @@ params:
       featuredpoints: 
         - point: All three classes taken during first and second year.
         - point: Introduction class into Python(Computational Expression & Data Abstraction) and R(Data Analytics).
-    - company: "Other Classes"
+    - company: "Other"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
       role: " Introduction to Media Culture, Electronic & Intermedia Art"
       startdate: Sep 2020
