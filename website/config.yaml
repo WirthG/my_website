@@ -58,7 +58,7 @@ params:
   disable_experience: false
   experience:
     - company: "Computer Science Classes"
-      # id: "Computer Science Classes"   // use this, when you want to change the id(used for navigation)
+      # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
       role: "Computational Expression, Data Analytics, Data Abstraction"
       startdate: September 2020
       enddate: December 2021
