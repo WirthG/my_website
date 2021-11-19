@@ -62,7 +62,7 @@ params:
       role: "Using Python and R"
       startdate: September 2020
       enddate: December 2021
-      featuredpoints: Test
+      featuredpoints: 
         - point: An introduction to the principles of computer science
         - point: Introduction class into Python
     - company: "Other Classes "
