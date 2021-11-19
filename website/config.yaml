@@ -59,20 +59,20 @@ params:
   experience:
     - company: "Computer Science Classes"
       # id: "Computer Science Classes"   // use this, when you want to change the id(used for navigation)
-      role: "Using Python and R"
+      role: "Computational Expression, Data Analytics, Data Abstraction"
       startdate: September 2020
       enddate: December 2021
       featuredpoints: 
-        - point: Computational Expression, Data Analytics, Data Abstraction
-        - point: Introduction class into Python and R
+        - point: All three classes taken during first and second year.
+        - point: Introduction class into Python and R.
     - company: "Other Classes "
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+      role: " Introduction to Media Culture, Electronic & Intermedia Art"
+      startdate: September 2020
+      enddate: Feburary 2021
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Media Culture Class - explore the role media play in our everyday lives and study the ways media participate in the shaping of identities and cultures.
+        - point: Electronic & Intermedia Art - Using electronic technologies/software and digital media as art-making tools. Awareness of the elements of 2D design/composition and the vocabulary used to describe it.
     - company: "Internship"
       # id: "Internship" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
