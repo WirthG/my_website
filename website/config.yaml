@@ -57,7 +57,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Classes"
+    - company: "CMPSC_Classes"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
       role: "Computational Expression, Data Analytics, Data Abstraction"
       startdate: Sep 2020
