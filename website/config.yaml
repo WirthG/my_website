@@ -58,13 +58,13 @@ params:
   disable_experience: false
   experience:
     - company: "Computer Science Classes"
-      # id: "Computational Expression, Data Analytics, Data Abstraction"   // use this, when you want to change the id(used for navigation)
+      # id: "Computer Science Classes"   // use this, when you want to change the id(used for navigation)
       role: "Using Python and R"
       startdate: September 2020
       enddate: December 2021
       featuredpoints: 
-        - point: An introduction to the principles of computer science
-        - point: Introduction class into Python
+        - point: Computational Expression, Data Analytics, Data Abstraction
+        - point: Introduction class into Python and R
     - company: "Other Classes "
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
       role: "Fullstack developer"
