@@ -64,8 +64,8 @@ params:
       enddate: December 2021
       featuredpoints: 
         - point: All three classes taken during first and second year.
-        - point: Introduction class into Python and R.
-    - company: "Other Classes "
+        - point: Introduction class into Python(Computational Expression & Data Abstraction) and R(Data Analytics).
+    - company: "Other Classes"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
       role: " Introduction to Media Culture, Electronic & Intermedia Art"
       startdate: September 2020
