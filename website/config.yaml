@@ -35,7 +35,7 @@ params:
   name: "Griffin Wirth"
   namecolor: ffc107
   profession: "Integrative Informatics"
-  github: "https://github.com"
+  github: "https://github.com/WirthG"
   email: "mailto:griffiniwirth@gmail.com"
   linkedin: "https://linkedin.com" 
 
@@ -51,7 +51,7 @@ params:
       percentage: 40
     - name: Windows
       percentage: 80
-    - name: Adobie Creative Suit
+    - name: Adobi Creative Suite
       percentage: 90
 
   # Experience
