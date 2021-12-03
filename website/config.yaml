@@ -26,8 +26,8 @@ params:
   # Navbar Menus
   disable_Navbar Menus: true 
   customMenus:
-    - name: "Blog"
-      Url: "/blog"
+    - name: "Projects"
+      Url: "/projects"
 
   # home
   disable_home: false
@@ -57,7 +57,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "CMPSC_Classes"
+    - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
       role: "Computational Expression, Data Analytics, Data Abstraction"
       startdate: Sep 2020
@@ -69,46 +69,42 @@ params:
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
       role: " Introduction to Media Culture, Electronic & Intermedia Art"
       startdate: Sep 2020
-      enddate: Feb 2021
+      enddate: Dec 2021
       featuredpoints:
         - point: Media Culture Class - explore the role media play in our everyday lives and study the ways media participate in the shaping of identities and cultures.
         - point: Electronic & Intermedia Art - Using electronic technologies/software and digital media as art-making tools. Awareness of the elements of 2D design/composition and the vocabulary used to describe it.
     - company: "Internship"
       # id: "Internship" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
+      role: "None Yet"
       startdate: Feb 2019
       enddate: Jan 2020
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: -
+        - point: -
 
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "Quaker Valley High School"
+      branch: "Leetsdale, Pennsylvania"
+      university: "Beginings of Python"
+      startedyear: "2017"
+      graduation: "2020"
+    - degree: "Allegheny College"
+      branch: "Meadville Pennsylvania"
+      university: " CMPSC_Classes and Other listed above"
+      startedyear: "2020"
+      graduation: "2024"
+
 
   # Projects
   disable_projects: false
   projects:
-    - name: "Example project without details"
-      img: /images/project.jpg
-      githublink: "https://github.com/"
-      featuredlink: "/"
-      description: "Description of project"
+    - name: "Cryptography, and Cryptanalysis"
+      img: /images/code edit final.PNG
+      githublink: "https://github.com/Allegheny-Computer-Science-101-S2021/cmpsc101-s2021-final-project-team-10.git/"
+      featuredlink: "https://drive.google.com/file/d/1j08UkkBayvnGb3reVE2EDmkBzBqIRCHX/view"
+      description: "Using Python my friend and I codded a project that sends criptic messages and also decripts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
   # Achievements
   disable_achievements: false
