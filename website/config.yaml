@@ -102,8 +102,8 @@ params:
   projects:
     - name: "Cryptography, and Cryptanalysis"
       img: /images/code edit final.PNG
-      githublink: "https://github.com/Allegheny-Computer-Science-101-S2021/cmpsc101-s2021-final-project-team-10.git/"
-      featuredlink: "https://drive.google.com/file/d/1j08UkkBayvnGb3reVE2EDmkBzBqIRCHX/view"
+      githublink: #"https://github.com/Allegheny-Computer-Science-101-S2021/cmpsc101-s2021-final-project-team-10.git"
+      featuredlink: #"https://drive.google.com/file/d/1j08UkkBayvnGb3reVE2EDmkBzBqIRCHX/view"
       description: "Using Python my friend and I codded a project that sends criptic messages and also decripts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
   # Achievements
