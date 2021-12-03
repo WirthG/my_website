@@ -83,7 +83,7 @@ params:
         - point: -
 
   # Education
-  disable_education: false
+  disable_education: true
   education:
     - degree: "Quaker Valley High School"
       branch: "Leetsdale, Pennsylvania"
@@ -98,7 +98,7 @@ params:
 
 
   # Projects
-  disable_projects: true
+  disable_projects: false
   projects:
     - name: "Cryptography, and Cryptanalysis"
       img: #/images/code edit final.PNG
