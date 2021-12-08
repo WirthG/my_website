@@ -28,7 +28,7 @@ params:
     - name: "Resume"
       Url: "/Griffin_Wirth_Resume.pdf"
     - name: "Photos"
-      Url: "/Achievements"
+      Url: "/#"
 
 
 
