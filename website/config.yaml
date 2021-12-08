@@ -108,9 +108,9 @@ params:
       featuredlink: ""
       description: "Using Python my friend and I codded a project that sends criptic messages and also decripts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
-  # Achievements
-  disable_achievements: false
-  Photos:
+  # Photos
+  disable_photos: false
+  photos:
     - title: Prtrait
       description: Prtrait pictures of my friends and family.
       img: /images/achiv.jpg
