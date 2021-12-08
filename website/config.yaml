@@ -27,8 +27,7 @@ params:
   customMenus:
     - name: "Resume"
       Url: "/Griffin_Wirth_Resume.pdf"
-    - name: "Photos"
-      Url: "/#"
+  
 
 
 
@@ -111,7 +110,7 @@ params:
 
   # Achievements
   disable_achievements: false
-  achievements:
+  Photos:
     - title: Prtrait
       description: Prtrait pictures of my friends and family.
       img: /images/achiv.jpg
