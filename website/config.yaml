@@ -113,13 +113,13 @@ params:
   Photos:
     - title: Portrait
       description: Prtrait pictures of my friends and family.
-      img: /images/achiv.jpg
+      img: /images/Face.jpg
     - title: Landscape
       description: Landscape pictures of the plaes I have been
-      img: /images/achiv.jpg
+      img: /images/Land1.jpg
     - title: Flowers
       description: Flower pictures
-      img: /images/achiv.jpg
+      img: /images/Flower.jpg
     - title: Architecture
       description: Architecture pictures of strutures that I have taken
       img: /images/achiv.jpg
