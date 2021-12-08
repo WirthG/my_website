@@ -100,7 +100,7 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Cryptography"
+    - name: "Cryptography and Cryptanalysis "
       img: "images/password.jpg"
       githublink: "https://github.com/Allegheny-Computer-Science-101-S2021/cmpsc101-s2021-final-project-team-10.git"
       featuredlink: ""
@@ -129,7 +129,7 @@ params:
 
   # Footer
   socialiconfooter: true
-  recentposts: true
+  recentposts: false
 
   # Blog
   showdescription: false
