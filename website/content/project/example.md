@@ -1,9 +1,9 @@
 ---
-title: "Example project with details"
+title: "Photos I have taken and edited"
 date: 2021-05-04T11:30:13+05:30
 draft: false
 img: /images/project.jpg
-description: "Description of project"
-github: https://github.com/
+description: "Here are some of my photoes that I have taken on my phone and edited on my computer."
+
 featured: /
 ---

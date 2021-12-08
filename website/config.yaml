@@ -24,7 +24,11 @@ params:
   description: ""
 
   # Navbar Menus
-  disable_Navbar Menus: true 
+  disable_Navbar Menus: false
+  customeMenus:
+    name: "Resume"
+    URL: "/#"
+
 
 
   # home
