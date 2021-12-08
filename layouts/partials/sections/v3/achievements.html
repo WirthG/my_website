@@ -1,10 +1,10 @@
 {{ $img:= "./images/v1/background.png" }}
 
-<section id="achievements" class="py-5 achievements-backdark achievements-back">
+<section id="Photos" class="py-5 Photos-backdark Photos-back">
   <div class="container-fluid">
     <div class="text-dark text-center h3">Photos</div>
     <div class="row justify-content-center py-3 mx-2">
-      {{ range .Site.Params.achievements }}
+      {{ range .Site.Params.Photos }}
       {{ if .img }}
       {{ $img = .img }}
       {{ end }}

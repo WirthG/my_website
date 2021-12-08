@@ -110,8 +110,8 @@ params:
 
   # Photos
   disable_achievements: false
-  achievements:
-    - title: Prtrait
+  Photos:
+    - title: Portrait
       description: Prtrait pictures of my friends and family.
       img: /images/achiv.jpg
     - title: Landscape
