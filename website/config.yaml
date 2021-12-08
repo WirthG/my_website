@@ -23,11 +23,10 @@ params:
   favicon: "/images/Wirth_Pic.jpg"
   description: ""
 
-  # Navbar Menus
-  disable_Navbar Menus: false
-  customeMenus:
-    name: "Resume"
-    URL: "/#"
+# Navbar Menus
+  customMenus:
+    - name: "Resume"
+      Url: "/#"
 
 
 
