@@ -25,9 +25,7 @@ params:
 
   # Navbar Menus
   disable_Navbar Menus: true 
-  customMenus:
-    - name: "None"
-      Url: "/projects"
+  
 
   # home
   disable_home: false
@@ -107,7 +105,7 @@ params:
       description: "Using Python my friend and I codded a project that sends criptic messages and also decripts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
   # Achievements
-  disable_achievements: false
+  disable_achievements: true
   achievements:
     - title: Competition winner
       description: We are developed a product which can help others.
