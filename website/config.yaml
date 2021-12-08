@@ -122,7 +122,7 @@ params:
       img: /images/Flower.jpg
     - title: Architecture
       description: Architecture pictures of strutures that I have taken
-      img: /images/achiv.jpg
+      img: /images/Arch.jpg
 
   # Contact
   disable_contact: false
