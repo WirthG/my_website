@@ -107,20 +107,20 @@ params:
       featuredlink: ""
       description: "Using Python my friend and I codded a project that sends criptic messages and also decripts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
-  # Achievements
+  # Photos
   disable_achievements: false
   achievements:
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Prtrait
+      description: Prtrait pictures of my friends and family.
       img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Landscape
+      description: Landscape pictures of the plaes I have been
       img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Flowers
+      description: Flower pictures
       img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
+    - title: Architecture
+      description: Architecture pictures of strutures that I have taken
       img: /images/achiv.jpg
 
   # Contact
