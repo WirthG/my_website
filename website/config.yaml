@@ -110,7 +110,7 @@ params:
 
   # Photos
   disable_photos: false
-  photos:
+  achievements:
     - title: Prtrait
       description: Prtrait pictures of my friends and family.
       img: /images/achiv.jpg
