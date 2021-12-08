@@ -108,7 +108,7 @@ params:
       description: "Using Python my friend and I codded a project that sends criptic messages and also decripts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
   # Achievements
-  disable_achievements: true
+  disable_achievements: false
   achievements:
     - title: Competition winner
       description: We are developed a product which can help others.
