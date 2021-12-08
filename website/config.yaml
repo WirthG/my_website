@@ -26,7 +26,7 @@ params:
   # Navbar Menus
   disable_Navbar Menus: true 
   customMenus:
-    - name: "Projects"
+    - name: "None"
       Url: "/projects"
 
   # home
