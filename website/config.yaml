@@ -103,7 +103,7 @@ params:
   projects:
     - name: "Cryptography and Cryptanalysis "
       img: "images/password.jpg"
-      githublink: "https://github.com/Allegheny-Computer-Science-101-S2021/cmpsc101-s2021-final-project-team-10.git"
+      githublink: "https://github.com/WirthG/Password_Project"
       featuredlink: ""
       description: "Using Python my friend and I codded a project that sends criptic messages and also decripts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
