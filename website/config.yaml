@@ -26,7 +26,7 @@ params:
 # Navbar Menus
   customMenus:
     - name: "Resume"
-      Url: "/#"
+      Url: "/resume.pdf"
 
 
 
