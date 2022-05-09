@@ -1,7 +1,7 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Griffin's Profile"
-theme: "./.."
+theme: "../.."
 relativeURLs: true
 
 googleanalytics: UA-167646412-8
