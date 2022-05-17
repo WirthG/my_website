@@ -46,7 +46,7 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and art, and I have a strong interest in the intersection of technology with art. I am currently a student at Allegheny College. 
+      I am a college student with a passion for web development. I have a background in computer science and art, and I have a strong interest in the intersection of technology with art. I am currently a student at Allegheny College. 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
@@ -55,9 +55,7 @@ params:
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+       
 
   # Experience
   disable_experience: false
