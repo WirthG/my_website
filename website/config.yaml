@@ -42,7 +42,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Griffin and I'm a student at Allegheny College. I am a Integrative Informatics major, with a focus in media and visual production. My extracurriculars include Allegheny College Men's Soccer Team where I practice every day for two hours and play in games every weekend, Allegheny College Symphony where I play baritone saxophone and have a concert at the end of each semester, Allegheny College Men's Ensemble where I sing baritone and also have a concert each semester, Allegheny College PlayShop Theatre where I served as stage manager for the play called "The Whole Shebang".
+  descripe_l1_person: "Hi, I'm Griffin and I'm a student at Allegheny College. I am an Integrative Informatics major, with a focus in media and visual production. My extracurriculars include Allegheny College Men's Soccer Team where I practice every day for two hours and play in games every weekend, Allegheny College Symphony where I play baritone saxophone and have a concert at the end of each semester, Allegheny College Men's Ensemble where I sing baritone and also have a concert each semester, Allegheny College PlayShop Theatre where I served as stage manager for the play called 'The Whole Shebang'."
   descripe_l2_person: "If you want to find out more about me through my projects, you can find my works [here.](#projects)"
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
@@ -54,10 +54,10 @@ params:
       percentage: 80
     - name: Adobe Creative Suite
       percentage: 90
-    - name: HTML
+    - name: VSCode
       percentage: 75 
+  
 
-       
 
   # Experience
   disable_experience: false
