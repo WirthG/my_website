@@ -47,15 +47,15 @@ params:
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
     - name: Python
-      percentage: 50
+      percentage: 65
     - name: R
-      percentage: 55
+      percentage: 65
     - name: Windows
-      percentage: 80
+      percentage: 85
     - name: Adobe Creative Suite
-      percentage: 90
+      percentage: 95
     - name: VSCode
-      percentage: 75 
+      percentage: 80 
   
 
 
@@ -129,7 +129,7 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you in time!
   email: "griffiniwirth@gmail.com"
 
   # Footer
