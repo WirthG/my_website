@@ -139,6 +139,7 @@ a:hover {
 .about-me {
   font-family: "Alata", sans-serif;
   font-size: 25px;
+  line-height: 50%;
 }
 
 .about-content {
