@@ -233,9 +233,11 @@ a:hover {
 }
 .ex {
   list-style-type: none;
+  line-height: 180%;
 }
 .ex .ex-item {
   padding-left: 30px;
+  padding-top: 4%;
 }
 .ex-item::before {
   padding-left: 8%;
