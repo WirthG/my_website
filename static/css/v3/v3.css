@@ -14,14 +14,17 @@ a:hover {
   padding-left: 3%;
   border-left: 4px solid #007bff;
 }
+/*20*/
 .hi-text {
-  font-size: 20px;
+  font-size: 30px;
 }
+/*60*/
 .name-text {
-  font-size: 60px;
+  font-size: 70px;
 }
+/*25*/
 .pro-text {
-  font-size: 25px;
+  font-size: 30px;
 }
 .btn-intro {
   padding-left: 3%;
