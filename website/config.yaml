@@ -47,7 +47,7 @@ params:
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
     - name: Python
-      percentage: 40
+      percentage: 50
     - name: R
       percentage: 55
     - name: Windows
@@ -92,7 +92,7 @@ params:
   education:
     - degree: "Allegheny College"
       branch: "Meadville, PA"
-      university: "CMPSC and Other listed above"
+      university: "Integrative Informatics & Theater"
       startedyear: "2020"
       graduation: "2024"
     - degree: "Quaker Valley High School"
@@ -109,7 +109,7 @@ params:
       img: "images/password.jpg"
       githublink: "https://github.com/WirthG/Password_Project"
       featuredlink: ""
-      description: "Using Python my friend and I codded a project that sends cryptic messages and also decrypts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
+      description: "Using Python my friend and I coded a project that sends cryptic messages and also decrypts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
   # Photos
   disable_achievements: false
