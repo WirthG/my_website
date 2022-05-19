@@ -60,11 +60,12 @@ a:hover {
 .name-container {
   padding-left: 15%;
 }
+/*w=300px,h=300*/
 .profile {
   padding: 1%;
   border: 1px solid #f9fafc;
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 355px;
 }
 .profile:hover {
   -webkit-filter: grayscale(0);
