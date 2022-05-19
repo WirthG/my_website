@@ -110,7 +110,7 @@ params:
       img: "images/password.jpg"
       githublink: "https://github.com/WirthG/Password_Project"
       featuredlink: ""
-      description: "Using Python my friend and I coded a project that sends cryptic messages and also decrypts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
+      description: "Using Python, my friend and I coded a project that sends cryptic messages and also decrypts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
 
   # Photos
   disable_achievements: false
@@ -122,7 +122,7 @@ params:
       description: Landscape pictures of the places I have been.
       img: /images/Land1.jpg
     - title: Flowers
-      description: Flower pictures.
+      description: Flower pictures. Most from Phipps Conservatory and Botanical Gardens in Pittsburgh.
       img: /images/Flower.jpg
     - title: Architecture
       description: Architecture pictures of structures that I have taken.
