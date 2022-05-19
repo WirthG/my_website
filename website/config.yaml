@@ -56,7 +56,8 @@ params:
       percentage: 95
     - name: VSCode
       percentage: 80 
-  
+    - name: SolidWorks(CAD)
+      percentage: 85
 
 
   # Experience
