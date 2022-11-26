@@ -26,7 +26,7 @@ params:
 # Navbar Menus
   customMenus:
     - name: "Resume"
-      Url: "/Griffin_Wirth_Resume.pdf"
+      Url: "/Griffin_Wirth_-_.pdf"
   
 
 
