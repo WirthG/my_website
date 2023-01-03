@@ -65,20 +65,21 @@ params:
   experience:
     - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
-      role: "Computational Expression, Data Analytics, Data Abstraction"
+      role: "Data Analytics, Data Abstraction, Web Design, Digital Storytelling, Software Design."
       startdate: Sep 2020
-      enddate: Dec 2021
+      enddate: Present
       featuredpoints: 
         - point: All three classes taken during first and second year.
-        - point: Introduction class into Python(Computational Expression & Data Abstraction) and R(Data Analytics).
+        - point: Programed in Python, R, VSCode, CADD, SolidWorks, HTML, and CSS.
     - company: "Other"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
-      role: " Introduction to Media Culture, Electronic & Intermedia Art"
+      role: " Introduction to Media Culture, Electronic & Intermedia Art, Filmmaking and Digital Story Telling"
       startdate: Sep 2020
       enddate: Dec 2021
       featuredpoints:
-        - point: Media Culture Class - explore the role media play in our everyday lives and study the ways media participate in the shaping of identities and cultures.
+        - point: Media Culture Class - Explored the role media plays in our everyday lives and studied the way media participates in the shaping of identities and cultures.
         - point: Electronic & Intermedia Art - Using electronic technologies/software and digital media as art-making tools. Awareness of the elements of 2D design/composition and the vocabulary used to describe it.
+        - point: Filmmaking and Digital Story Telling - Studied and preformed the concept of production involved in cinematic and television production. Operated Panasonic P2 TV studio cameras.
     - company: "Internship"
       # id: "Internship" // use this, when you want to change the id(used for navigation)
       role: "None Yet"
