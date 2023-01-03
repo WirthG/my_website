@@ -42,7 +42,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Griffin and I'm a student at Allegheny College. I am an Integrative Informatics major, with a focus in media and visual production. My extracurriculars include Allegheny College Men's Soccer Team where I practice every day for two hours and play in games every weekend, Allegheny College Symphony where I play baritone saxophone and have a concert at the end of each semester, Allegheny College Men's Ensemble where I sing baritone and also have a concert each semester, Allegheny College PlayShop Theatre where I served as stage manager for the play called 'The Whole Shebang'."
+  descripe_l1_person: "I am a junior at Allegheny College studying Integrative Informatics with a focus on Media and Visual Production. In this major, I have focused in Data Analytics, Data Abstraction, Electronic/Intermedia Art, Web Design, Digital Storytelling, and Software Design. In addition, during this program, I have learned to program in Python, R, VSCode, CADD, SolidWorks, HTML, and CSS. I have also worked with Adobe Premier, and Adobe Pro as well as operated Panasonic P2 TV studio cameras. Outside of the classroom, I have applied my interest in Visual Production by designing and operating light boards for theatre and dance productions on campus."
   descripe_l2_person: "If you want to find out more about me through my projects, you can find my works [here.](#projects)"
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
