@@ -72,7 +72,7 @@ params:
         - point: Data Analytics - Introduction to explore R Programming, looked at website traffic data with Google Analytics, understanding textual analysis in project papers about data, and more.  
         - point: Data Abstraction - Introduction class using Python for computational constructs and list data structures with odd nods and even nods, Inherence and abstract classes with abstract classes and methods, and more. 
         - point: Web Design - Learned and practiced how to design, implement, and maintenance a mobile-ready web sites. Used HTML and CSS. This website is a product of that class.  
-        - point: Robotics - Got to build, program, and use robots like GoPiGO's, Parrot Bebop Drone's, TurtleBot's, and Evo Arm's. At the end of the class we got to show our projects off on campus. I showed off my Evo Arm project, linked down below in projects [here.](#projects) 
+        - point: Robotics - "Got to build, program, and use robots like GoPiGO's, Parrot Bebop Drone's, TurtleBot's, and Evo Arm's. At the end of the class we got to show our projects off on campus. I showed off my Evo Arm project, linked down below in projects [here.](#projects)"" 
         - point: SolidWorks - A class on using SolidWork's CADD software to create 3D models of parts. 
     - company: "Other"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
