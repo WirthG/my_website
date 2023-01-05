@@ -124,7 +124,7 @@ params:
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project2-bebop-griffin-trang"
       description: "Trang and I programed a Bebop drone to do things like fly forward and do a flip! In the repository there is a folder marked video. In it, there is a link to a short demonstration video of the program working."
     - name: "Portrait Photos"
-      img: "/images/Face1.jpg"
+      img: "/images/Face.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1pzFUqM_dncOIICHalcHs5dZkrEMZy_6t6clOilvaswU/edit?usp=sharing"
       description: "Link to a drawling board of portrait pictures I have taken of my friends and family."
@@ -140,7 +140,7 @@ params:
   Photos:
     - title: Portrait
       description: Portrait pictures of my friends and family.
-      img: /images/Face1.jpg
+      img: /images/Face.jpg
     - title: Landscape
       description: Landscape pictures of the places I have been.
       img: /images/Land1.jpg
