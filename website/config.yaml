@@ -120,7 +120,7 @@ params:
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project4-evoarm_3ppl"
       description: "Makell and I used the given EvoArm site and made a program that uses all six motors to picks up three different sized blocks and places them in a container."
     - name: "BeBop Drone Program"
-      img: "images/BeBop Drone1.webp"
+      img: "images/BeBop Drone2.webp"
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project2-bebop-griffin-trang"
       description: "Trang and I programed a Bebop drone to do things like fly forward and do a flip! In the repository there is a folder marked video. In it there is a link to a short demonstration video of the program working."
 
