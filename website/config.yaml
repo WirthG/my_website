@@ -133,6 +133,16 @@ params:
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1RaYKh2vv1Aa4IrOll_IiXvfDzfbK6rjgTnJC1GbPNTw/edit?usp=sharing"
       description: "Link to a drawling board of my landscape pictures."
+    - name: "Flower Photos"
+      img: "images/Yellow.jpg"
+      githublink: ""
+      featuredlink: "https://docs.google.com/drawings/d/1z5hKi0GLCeK3EjPxUK_2wCqmu2EEjB2PFzIobfLKnkc/edit?usp=sharing"
+      description: ""
+    - name: "Architecture Photos"
+      img: "images/Chautqua.jpg"
+      githublink: ""
+      featuredlink: "https://docs.google.com/drawings/d/1RaYKh2vv1Aa4IrOll_IiXvfDzfbK6rjgTnJC1GbPNTw/edit?usp=sharing"
+      description: ""
     
 
   # Photos
