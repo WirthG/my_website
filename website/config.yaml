@@ -138,7 +138,7 @@ params:
       description: "Link to a drawling board of my landscape pictures."
     
     - name: "Flower Photos"
-      img: "images/Chautqua.jpg"
+      img: "images/Flower thumb.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1z5hKi0GLCeK3EjPxUK_2wCqmu2EEjB2PFzIobfLKnkc/edit?usp=sharing"
       description: ""
