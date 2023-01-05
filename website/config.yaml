@@ -119,25 +119,30 @@ params:
       img: "images/Evo arm 2.webp"
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project4-evoarm_3ppl"
       description: "Makell and I used the given EvoArm site and made a program that uses all six motors to picks up three different sized blocks and places them in a container."
+    
     - name: "BeBop Drone Program"
       img: "images/BeBop Drone2.webp"
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project2-bebop-griffin-trang"
       description: "Trang and I programed a Bebop drone to do things like fly forward and do a flip! In the repository there is a folder marked video. In it, there is a link to a short demonstration video of the program working."
+
     - name: "Portrait Photos"
       img: "/images/Face3.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1pzFUqM_dncOIICHalcHs5dZkrEMZy_6t6clOilvaswU/edit?usp=sharing"
       description: "Link to a drawling board of portrait pictures I have taken of my friends and family."
+
     - name: "Landscape Photos"
-      img: "images/Face.jpg"
+      img: "images/Chautqua.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1RaYKh2vv1Aa4IrOll_IiXvfDzfbK6rjgTnJC1GbPNTw/edit?usp=sharing"
       description: "Link to a drawling board of my landscape pictures."
+    
     - name: "Flower Photos"
       img: "images/Chautqua.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1z5hKi0GLCeK3EjPxUK_2wCqmu2EEjB2PFzIobfLKnkc/edit?usp=sharing"
       description: ""
+   
     - name: "Architecture Photos"
       img: "images/Chautqua.jpg"
       githublink: ""
