@@ -110,11 +110,15 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Cryptography and Cryptanalysis "
+    - name: "Cryptography and Cryptanalysis"
       img: "images/password.jpg"
       githublink: "https://github.com/WirthG/Password_Project"
       featuredlink: ""
       description: "Using Python, my friend and I coded a project that sends cryptic messages and also decrypts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
+    - name: "EvoArm Block Placement Program"
+      img: "images/password.jpg"
+      githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project4-evoarm_3ppl"
+      description: "Makell and I used the given EvoArm site and made a program that uses all six motors to picks up three different sized blocks and places them in a container."
 
   # Photos
   disable_achievements: false
