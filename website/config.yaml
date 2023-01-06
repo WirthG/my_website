@@ -151,7 +151,7 @@ params:
     
 
   # Photos
-  disable_achievements: false
+  disable_achievements: true
   Photos:
     - title: Portrait
       description: Portrait pictures of my friends and family.
