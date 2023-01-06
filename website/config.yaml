@@ -128,26 +128,26 @@ params:
     - name: "Portrait Photos"
       img: "/images/Portrait Pictures-Griffin Wirth.jpg"
       githublink: ""
-      featuredlink: "https://docs.google.com/drawings/d/1pzFUqM_dncOIICHalcHs5dZkrEMZy_6t6clOilvaswU/edit?usp=sharing"
-      description: "Link to a drawling board of portrait pictures I have taken of my friends and family."
+      featuredlink: "https://docs.google.com/presentation/d/18of7sO2Jl0jr4KexfYeBphfRyL5yyGbQKi5Zw2Uyjm0/edit?usp=sharing"
+      description: "Link to a digital photo book of my portrait photos."
 
     - name: "Landscape Photos"
       img: "images/Landscape Pictures-Griffin Wirth.jpg"
       githublink: ""
-      featuredlink: "https://docs.google.com/drawings/d/1RaYKh2vv1Aa4IrOll_IiXvfDzfbK6rjgTnJC1GbPNTw/edit?usp=sharing"
-      description: "Link to a drawling board of my landscape pictures."
+      featuredlink: "https://docs.google.com/presentation/d/1QIQ65tjKDUJmmJo35kU1NNjR5gWnAnLVXw1Slwxg3rI/edit?usp=sharing"
+      description: "Link to a digital photo book of my landscape photos."
     
     - name: "Flower Photos"
       img: "images/Flower Pictures-Griffin Wirth.jpg"
       githublink: ""
-      featuredlink: "https://docs.google.com/drawings/d/1z5hKi0GLCeK3EjPxUK_2wCqmu2EEjB2PFzIobfLKnkc/edit?usp=sharing"
-      description: "Link to a drawling board to some of my flower photos. Most from Phipps Conservatory and Botanical Gardens in Pittsburgh."
+      featuredlink: "https://docs.google.com/presentation/d/1BcIokAoOXvGKomSrTamxCs4Nyf-1wld0RkOmBHSZYqY/edit?usp=sharing"
+      description: "Link to a digital photo book of my flower photos. Most from Phipps Conservatory and Botanical Gardens in Pittsburgh."
    
     - name: "Architecture Photos"
       img: "images/Architecture Photos-Griffin Wirth.jpg"
       githublink: ""
-      featuredlink: "https://docs.google.com/drawings/d/1RaYKh2vv1Aa4IrOll_IiXvfDzfbK6rjgTnJC1GbPNTw/edit?usp=sharing"
-      description: ""
+      featuredlink: "https://docs.google.com/presentation/d/1xRNhZszW7GyAH7zZpARSNaLLd_QsAKyhkV2k8IiD30U/edit?usp=sharing"
+      description: "Link to a digital photo book of my architecture photos. "
     
 
   # Photos
