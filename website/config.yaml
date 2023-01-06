@@ -65,7 +65,7 @@ params:
   experience:
     - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
-      role: "Computer science classes pertaining to Integrated Informatics."
+      role: "Computer Science classes pertaining to Integrated Informatics."
       startdate: Sep 2020
       enddate: Present
       featuredpoints: 
