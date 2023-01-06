@@ -65,7 +65,7 @@ params:
   experience:
     - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
-      role: "Data Analytics, Data Abstraction, Web Design, Robotics, and SolidWorks."
+      role: "Computer science classes pertaining to Integrated Informatics."
       startdate: Sep 2020
       enddate: Present
       featuredpoints: 
@@ -76,7 +76,7 @@ params:
         - point: SolidWorks - A class on using SolidWork's CADD software to create 3D models of parts. 
     - company: "Other"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
-      role: " Introduction to Media Culture, Electronic & Intermedia Art, Filmmaking and Digital Story Telling"
+      role: " Other classes pertaining to Integrated Informatics."
       startdate: Sep 2020
       enddate: Dec 2022
       featuredpoints:
