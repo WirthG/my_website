@@ -59,6 +59,21 @@ params:
     - name: SolidWorks(CAD)
       percentage: 85
 
+  # Education
+  disable_education: false
+  education:
+    - degree: "Allegheny College"
+      branch: "Meadville, PA"
+      university: "Integrative Informatics & Theater"
+      startedyear: "2020"
+      graduation: "2024"
+    - degree: "Quaker Valley High School"
+      branch: "Leetsdale, PA"
+      university: "Introduction into Python"
+      startedyear: "2017"
+      graduation: "2020"
+
+
 
   # Experience
   disable_experience: false
@@ -92,20 +107,6 @@ params:
         - point: "None"
         - point: "None"
 
-  # Education
-  disable_education: false
-  education:
-    - degree: "Allegheny College"
-      branch: "Meadville, PA"
-      university: "Integrative Informatics & Theater"
-      startedyear: "2020"
-      graduation: "2024"
-    - degree: "Quaker Valley High School"
-      branch: "Leetsdale, PA"
-      university: "Introduction into Python"
-      startedyear: "2017"
-      graduation: "2020"
-
 
   # Projects
   disable_projects: false
@@ -131,7 +132,7 @@ params:
       featuredlink: "https://drive.google.com/drive/folders/1a-kHJvLYdULVwEnnG5MHQkU4HEksSAB0?usp=sharing"
       description: "Link to a digital photo book of my portrait photos of my friends over the years, landscape photos of places I have been, flower photos of Phipps Conservatory and Botanical Gardens in Pittsburgh, and architecture photos of monuments in places I have been."
 
-      
+
     
 
   # Photos
