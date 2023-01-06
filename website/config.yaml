@@ -132,19 +132,19 @@ params:
       description: "Link to a drawling board of portrait pictures I have taken of my friends and family."
 
     - name: "Landscape Photos"
-      img: "images/Chautqua.jpg"
+      img: "images/Landscape Pictures-Griffin Wirth.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1RaYKh2vv1Aa4IrOll_IiXvfDzfbK6rjgTnJC1GbPNTw/edit?usp=sharing"
       description: "Link to a drawling board of my landscape pictures."
     
     - name: "Flower Photos"
-      img: "images/Flower thumb1.jpg"
+      img: "images/Flower Pictures-Griffin Wirth.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1z5hKi0GLCeK3EjPxUK_2wCqmu2EEjB2PFzIobfLKnkc/edit?usp=sharing"
       description: "Link to a drawling board to some of my flower photos. Most from Phipps Conservatory and Botanical Gardens in Pittsburgh."
    
     - name: "Architecture Photos"
-      img: "images/Chautqua.jpg"
+      img: "images/Architecture Photos-Griffin Wirth.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1RaYKh2vv1Aa4IrOll_IiXvfDzfbK6rjgTnJC1GbPNTw/edit?usp=sharing"
       description: ""
