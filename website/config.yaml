@@ -126,28 +126,12 @@ params:
       description: "Trang and I programed a Bebop drone to do things like fly forward and do a flip! In the repository there is a folder marked video. In it, there is a link to a short demonstration video of the program working."
 
     - name: "Photo Book"
-      img: "/images/Portrait Pictures-Griffin Wirth.jpg"
+      img: "/images/Photo Book.jpg"
       githublink: ""
       featuredlink: "https://drive.google.com/drive/folders/1a-kHJvLYdULVwEnnG5MHQkU4HEksSAB0?usp=sharing"
       description: "Link to a digital photo book of my portrait photos of my friends over the years, landscape photos of places I have been, flower photos of Phipps Conservatory and Botanical Gardens in Pittsburgh, and architecture photos of monuments in places I have been."
 
-    - name: "Landscape Photos"
-      img: "images/Landscape Pictures-Griffin Wirth.jpg"
-      githublink: ""
-      featuredlink: "https://docs.google.com/presentation/d/1QIQ65tjKDUJmmJo35kU1NNjR5gWnAnLVXw1Slwxg3rI/edit?usp=sharing"
-      description: "Link to a digital photo book of my landscape photos. Places include the Outer Banks, Chautauqua, Erie, and more."
-    
-    - name: "Flower Photos"
-      img: "images/Flower Pictures-Griffin Wirth.jpg"
-      githublink: ""
-      featuredlink: "https://docs.google.com/presentation/d/1BcIokAoOXvGKomSrTamxCs4Nyf-1wld0RkOmBHSZYqY/edit?usp=sharing"
-      description: "Link to a digital photo book of my flower photos. Most from Phipps Conservatory and Botanical Gardens in Pittsburgh."
-   
-    - name: "Architecture Photos"
-      img: "images/Architecture Photos-Griffin Wirth.jpg"
-      githublink: ""
-      featuredlink: "https://docs.google.com/presentation/d/1xRNhZszW7GyAH7zZpARSNaLLd_QsAKyhkV2k8IiD30U/edit?usp=sharing"
-      description: "Link to a digital photo book of my architecture photos. Pictures of cool builds in places I have been."
+      
     
 
   # Photos
