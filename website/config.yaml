@@ -125,11 +125,11 @@ params:
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project2-bebop-griffin-trang"
       description: "Trang and I programed a Bebop drone to do things like fly forward and do a flip! In the repository there is a folder marked video. In it, there is a link to a short demonstration video of the program working."
 
-    - name: "Portrait Photos"
+    - name: "Photo Book"
       img: "/images/Portrait Pictures-Griffin Wirth.jpg"
       githublink: ""
-      featuredlink: "https://docs.google.com/presentation/d/18of7sO2Jl0jr4KexfYeBphfRyL5yyGbQKi5Zw2Uyjm0/edit?usp=sharing"
-      description: "Link to a digital photo book of my portrait photos of my friends over the years."
+      featuredlink: "https://drive.google.com/drive/folders/1a-kHJvLYdULVwEnnG5MHQkU4HEksSAB0?usp=sharing"
+      description: "Link to a digital photo book of my portrait photos of my friends over the years, landscape photos of places I have been, flower photos of Phipps Conservatory and Botanical Gardens in Pittsburgh, and architecture photos of monuments in places I have been."
 
     - name: "Landscape Photos"
       img: "images/Landscape Pictures-Griffin Wirth.jpg"
