@@ -43,8 +43,8 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "I am a junior at Allegheny College studying Integrative Informatics with a focus on Media and Visual Production. In this major, I have focused in Data Analytics, Data Abstraction, Electronic/Intermedia Art, Web Design, Digital Storytelling, and Software Design. In addition, during this program, I have learned to program in Python, R, VSCode, CADD, SolidWorks, HTML, and CSS. I have also worked with Adobe Premier, and Adobe Pro as well as operated Panasonic P2 TV studio cameras. Outside of the classroom, I have applied my interest in Visual Production by designing and operating light boards for theatre and dance productions on campus."
-  descripe_l2_person: "If you want to find out more about me through my projects, you can find my works [here.](#projects)"
-  descripe_l3_person: "If you want to get in touch with me, my email is here." 
+  descripe_l2_person: "If you want to find out more about me through my projects or any of my photos that I have taken and edited myself, you can find my works [here.](#projects)"
+  descripe_l2_person: "If you want to get in touch with me, my email is here." 
   skills:
     - name: Python
       percentage: 65
@@ -141,7 +141,7 @@ params:
       img: "images/Flower thumb1.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/drawings/d/1z5hKi0GLCeK3EjPxUK_2wCqmu2EEjB2PFzIobfLKnkc/edit?usp=sharing"
-      description: ""
+      description: "Link to a drawling board to some of my flower photos. Most from Phipps Conservatory and Botanical Gardens in Pittsburgh."
    
     - name: "Architecture Photos"
       img: "images/Chautqua.jpg"
