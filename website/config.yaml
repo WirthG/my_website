@@ -129,13 +129,13 @@ params:
       img: "/images/Portrait Pictures-Griffin Wirth.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/presentation/d/18of7sO2Jl0jr4KexfYeBphfRyL5yyGbQKi5Zw2Uyjm0/edit?usp=sharing"
-      description: "Link to a digital photo book of my portrait photos."
+      description: "Link to a digital photo book of my portrait photos of my friends over the years."
 
     - name: "Landscape Photos"
       img: "images/Landscape Pictures-Griffin Wirth.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/presentation/d/1QIQ65tjKDUJmmJo35kU1NNjR5gWnAnLVXw1Slwxg3rI/edit?usp=sharing"
-      description: "Link to a digital photo book of my landscape photos."
+      description: "Link to a digital photo book of my landscape photos. Places include the Outer Banks, Chautauqua, Erie, and more."
     
     - name: "Flower Photos"
       img: "images/Flower Pictures-Griffin Wirth.jpg"
@@ -147,7 +147,7 @@ params:
       img: "images/Architecture Photos-Griffin Wirth.jpg"
       githublink: ""
       featuredlink: "https://docs.google.com/presentation/d/1xRNhZszW7GyAH7zZpARSNaLLd_QsAKyhkV2k8IiD30U/edit?usp=sharing"
-      description: "Link to a digital photo book of my architecture photos. "
+      description: "Link to a digital photo book of my architecture photos. Pictures of cool builds in places I have been."
     
 
   # Photos
