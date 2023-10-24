@@ -58,6 +58,8 @@ params:
       percentage: 80 
     - name: SolidWorks(CAD)
       percentage: 85
+    - name: Vectorworks Spotlight
+      percentage: 95
 
 
   # Experience
