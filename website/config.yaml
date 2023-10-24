@@ -42,7 +42,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "I am a junior at Allegheny College studying Integrative Informatics with a focus on Media and Visual Production. In this major, I have focused in Data Analytics, Data Abstraction, Electronic/Intermedia Art, Web Design, Digital Storytelling, and Software Design. In addition, during this program, I have learned to program in Python, R, VSCode, CADD, SolidWorks, HTML, and CSS. I have also worked with Adobe Premier, and Adobe Pro as well as operated Panasonic P2 TV studio cameras. Outside of the classroom, I have applied my interest in Visual Production by designing and operating light boards for theatre and dance productions on campus."
+  descripe_l1_person: "I am a senior at Allegheny College studying Integrative Informatics with a focus on Media and Visual Production. In this major, I have focused in Data Analytics, Data Abstraction, Electronic/Intermedia Art, Web Design, Digital Storytelling, and Software Design. In addition, during this program, I have learned to program in Python, R, VSCode, CADD, SolidWorks, HTML, and CSS. I have also worked with Adobe Premier, and Adobe Pro as well as operated Panasonic P2 TV studio cameras and OSMO packet tracking cameras. Outside of the classroom, I have applied my interest in Visual Production by designing and operating light boards for theatre and dance productions on campus."
   descripe_l2_person: "If you want to find out more about me through my projects or any of my photos that I have taken and edited myself, you can find my works [here.](#projects)"
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
@@ -76,18 +76,18 @@ params:
         - point: SolidWorks - A class on using SolidWork's CADD software to create 3D models of parts. 
     - company: "Other"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
-      role: " Other classes pertaining to Integrated Informatics."
+      role: "Classes pertaining to Integrated Informatics."
       startdate: Sep 2020
       enddate: Dec 2022
       featuredpoints:
         - point: Media Culture Class - Explored the role media plays in our everyday lives and studied the way media participates in the shaping of identities and cultures.
         - point: Electronic & Intermedia Art - Using electronic technologies/software and digital media as art-making tools. Awareness of the elements of 2D design/composition and the vocabulary used to describe it.
         - point: Filmmaking and Digital Story Telling - Studied and preformed the concept of production involved in cinematic and television production. Operated Panasonic P2 TV studio cameras.
-    - company: "Internship"
+    - company: "Senior Project"
       # id: "Internship" // use this, when you want to change the id(used for navigation)
-      role: "None Yet"
-      startdate: Feb 2019
-      enddate: Jan 2020
+      role: "Using Gitbook, I have created a platform to help students, professors, and guest artists easily implement Vectorworks Spotlight into their production."
+      startdate: Sept 2023
+      enddate: May 2024
       featuredpoints:
         - point: "None"
         - point: "None"
