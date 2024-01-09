@@ -92,6 +92,8 @@ params:
       enddate: May 2024
       featuredpoints:
         - point: "None"
+        githublink: "https://github.com/ReadyResearchers-2023-24/GriffinWirth-Artifact/tree/docs"
+        featuredlink: "https://app.gitbook.com/o/ccafznlSoTWEnYlxVrpY/s/6HscC7e71NuTclvdSHxg/"
         - point: "None"
 
   # Education
@@ -116,7 +118,7 @@ params:
       img: "images/password.jpg"
       githublink: "https://github.com/WirthG/Password_Project"
       featuredlink: ""
-      description: "Using Python, River and I coded a project that sends cryptic messages and also decrypts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
+      description: "Using Python, I coded a project that sends cryptic messages and also decrypts them when a password, acting as a key, is typed. We used a symmetric encryption to lock and unlock the key."
     - name: "EvoArm Block Placement Program"
       img: "images/Evo arm 2.webp"
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project4-evoarm_3ppl"
@@ -132,6 +134,12 @@ params:
       githublink: ""
       featuredlink: "https://drive.google.com/drive/folders/1a-kHJvLYdULVwEnnG5MHQkU4HEksSAB0?usp=sharing"
       description: "Link to a digital photo book of my portrait photos of my friends over the years, landscape photos of places I have been, flower photos of Phipps Conservatory and Botanical Gardens in Pittsburgh, and architecture photos of monuments in places I have been."
+    
+    - name: "Senior Project"
+      img: "/images/Photo Book.jpg"
+      githublink: "https://github.com/ReadyResearchers-2023-24/GriffinWirth-Artifact/tree/docs"
+      featuredlink: "https://app.gitbook.com/o/ccafznlSoTWEnYlxVrpY/s/6HscC7e71NuTclvdSHxg/"
+      description: "Link to my Allegheny Senior Project, Learning Website on How to Implement Vectorworks Spotlight into your Performance."
 
       
     
