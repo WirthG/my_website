@@ -85,14 +85,7 @@ params:
         - point: Media Culture Class - Explored the role media plays in our everyday lives and studied the way media participates in the shaping of identities and cultures.
         - point: Electronic & Intermedia Art - Using electronic technologies/software and digital media as art-making tools. Awareness of the elements of 2D design/composition and the vocabulary used to describe it.
         - point: Filmmaking and Digital Story Telling - Studied and preformed the concept of production involved in cinematic and television production. Operated Panasonic P2 TV studio cameras.
-    - company: "Senior Project"
-      # id: "Internship" // use this, when you want to change the id(used for navigation)
-      role: "Using Gitbook, I have created a platform to help students, professors, and guest artists easily implement Vectorworks Spotlight into their production."
-      startdate: Sept 2023
-      enddate: May 2024
-      featuredpoints:
-        - point: "None"
-        - point: "None"
+   
 
   # Education
   disable_education: false
