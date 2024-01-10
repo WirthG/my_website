@@ -67,7 +67,7 @@ params:
   experience:
     - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
-      role: "Computer Science classes pertaining to Integrated Informatics."
+      role: "Computer Science classes Pertaining to Integrated Informatics."
       startdate: Sep 2020
       enddate: Present
       featuredpoints: 
@@ -75,7 +75,7 @@ params:
         - point: Data Abstraction - Introduction class using Python for computational constructs and list data structures with odd nods and even nods, Inherence and abstract classes with abstract classes and methods, and more. 
         - point: Web Design - Learned and practiced how to design, implement, and maintenance a mobile-ready web sites. Used HTML and CSS. This website is a product of that class.  
         - point: Robotics - Got to build, program, and use robots like GoPiGO's, Parrot Bebop Drone's, TurtleBot's, and Evo Arm's. At the end of the class we got to show our projects off on campus. I showed off my Evo Arm project, linked down below in my projects.
-        - point: SolidWorks - A class on using SolidWork's CADD software to create 3D models of parts. 
+        - point: SolidWorks - A class on using SolidWork's CAD software to create 3D models of parts. 
     - company: "Other"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
       role: "Classes pertaining to Integrated Informatics."
@@ -120,7 +120,7 @@ params:
     - name: "EvoArm Block Placement Program"
       img: "images/Evo arm 2.webp"
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project4-evoarm_3ppl"
-      description: "Makell and I used the given EvoArm site and made a program that uses all six motors to picks up three different sized blocks and places them in a container."
+      description: "I used the given EvoArm site and made a program that uses all six motors to picks up three different sized blocks and places them in a container."
     
     - name: "BeBop Drone Program"
       img: "images/BeBop Drone2.webp"
@@ -134,10 +134,10 @@ params:
       description: "Link to a digital photo book of my portrait photos of my friends over the years, landscape photos of places I have been, flower photos of Phipps Conservatory and Botanical Gardens in Pittsburgh, and architecture photos of monuments in places I have been."
     
     - name: "Senior Project"
-      img: "/images/Photo Book.jpg"
+      img: "/images/Senior Project picture.PNG"
       githublink: "https://github.com/ReadyResearchers-2023-24/GriffinWirth-Artifact/tree/docs"
       featuredlink: "https://app.gitbook.com/o/ccafznlSoTWEnYlxVrpY/s/6HscC7e71NuTclvdSHxg/"
-      description: "Link to my Allegheny Senior Project, Learning Website on How to Implement Vectorworks Spotlight into your Performance."
+      description: "Link to my Allegheny Senior Project, Learning Website on How to Implement Vectorworks Spotlight into your Performance as well as a GitHub link to my projects repository."
 
       
     
