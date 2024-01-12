@@ -120,11 +120,11 @@ params:
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project2-bebop-griffin-trang"
       description: "Trang and I programed a Bebop drone to do things like fly forward and do a flip! In the repository there is a folder marked video. In it, there is a link to a short demonstration video of the program working."
 
-    - name: "Photo Book"
+    - name: "Creative Portfolio"
       img: "/images/Photo Book.jpg"
       githublink: ""
-      featuredlink: "https://https://griffin-wirth-creative-portfolio.netlify.app"
-      description: "Link to a digital photo book of photos I have taken and edited as well as some digital art projects I have created."
+      featuredlink: "https://griffin-wirth-creative-portfolio.netlify.app"
+      description: "Link to a portfolio website with digital photo book of photos I have taken and edited, digital art projects I have created, and theatre/music performances I have been in."
     
     - name: "Senior Project"
       img: "/images/Senior Project picture.PNG"
