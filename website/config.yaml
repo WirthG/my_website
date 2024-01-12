@@ -123,8 +123,8 @@ params:
     - name: "Photo Book"
       img: "/images/Photo Book.jpg"
       githublink: ""
-      featuredlink: "https://drive.google.com/drive/folders/1a-kHJvLYdULVwEnnG5MHQkU4HEksSAB0?usp=sharing"
-      description: "Link to a digital photo book of my portrait photos of my friends over the years, landscape photos of places I have been, flower photos of Phipps Conservatory and Botanical Gardens in Pittsburgh, and architecture photos of monuments in places I have been."
+      featuredlink: "https://sage-salmiakki-b82553.netlify.app/"
+      description: "Link to a digital photo book of photos I have taken and edited as well as some digital art projects I have created."
     
     - name: "Senior Project"
       img: "/images/Senior Project picture.PNG"
