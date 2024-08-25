@@ -90,8 +90,8 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "Carnegie Mellon University/Heinz College"
-      branch: "Pittsburgh, PA"
+    - degree: "CMU/Heinz College"
+      branch: "Pittsburgh, PA/ North Hollywood LA"
       university: "Master of Entertainment Industry Management"
       startedyear: "2024"
       graduation: "2025"
