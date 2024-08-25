@@ -42,7 +42,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "I am a senior at Allegheny College studying Integrative Informatics with a focus on Media and Visual Production. In this major, I have focused in Data Analytics, Data Abstraction, Electronic/Intermedia Art, Web Design, Digital Storytelling, and Software Design. In addition, during this program, I have learned to program in Python, R, VSCode, CADD, SolidWorks, HTML, and CSS. I have also worked with Adobe Premier, and Adobe Pro as well as operated Panasonic P2 TV studio cameras and OSMO packet tracking cameras. Outside of the classroom, I have applied my interest in Visual Production by designing and operating light boards for theatre and dance productions on campus."
+  descripe_l1_person: "As a graduate student at CMU in Entertainment Industry Management, I am deeply passionate about film and video game production. My passion began during my undergrad years at Allegheny College, where I took classes in Digital Marketing and Advertising, Acting and Directing for the Camera, and Lighting Production. In addition to my coursework, I have actively participated in theater productions, both as an actor and a lighting designer. These hands-on experiences have fueled my desire to contribute to the entertainment industry."
   descripe_l2_person: "If you want to find out more about me through my projects or any of my photos that I have taken and edited myself, you can find my works [here.](#projects)"
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
@@ -90,6 +90,11 @@ params:
   # Education
   disable_education: false
   education:
+  - degree: "Carnegie Mellon University/Heinz College"
+      branch: "Pittsburgh, PA/North Hollywood, LA"
+      university: "Master of Entertainment Industry Management"
+      startedyear: "2024"
+      graduation: "2025"
     - degree: "Allegheny College"
       branch: "Meadville, PA"
       university: "Integrative Informatics & Theater"
@@ -105,6 +110,12 @@ params:
   # Projects
   disable_projects: false
   projects:
+    - name: "Senior Project"
+      img: "/images/Senior Project picture.PNG"
+      githublink: "https://github.com/ReadyResearchers-2023-24/GriffinWirth-Artifact/tree/docs"
+      featuredlink: "https://app.gitbook.com/o/ccafznlSoTWEnYlxVrpY/s/6HscC7e71NuTclvdSHxg/"
+      description: "Link to my Allegheny Senior Project, Learning Website on 'How to Implement Vectorworks Spotlight into your Performance' as well as a GitHub link to my projects repository."
+      
     - name: "Cryptography and Cryptanalysis"
       img: "images/password.jpg"
       githublink: "https://github.com/WirthG/Password_Project"
@@ -126,11 +137,6 @@ params:
       featuredlink: "https://griffin-wirth-creative-portfolio.netlify.app"
       description: "Link to a portfolio website with digital photo book of photos I have taken and edited, digital art projects I have created, and theatre/music performances I have been in."
     
-    - name: "Senior Project"
-      img: "/images/Senior Project picture.PNG"
-      githublink: "https://github.com/ReadyResearchers-2023-24/GriffinWirth-Artifact/tree/docs"
-      featuredlink: "https://app.gitbook.com/o/ccafznlSoTWEnYlxVrpY/s/6HscC7e71NuTclvdSHxg/"
-      description: "Link to my Allegheny Senior Project, Learning Website on 'How to Implement Vectorworks Spotlight into your Performance' as well as a GitHub link to my projects repository."
 
       
     
