@@ -65,11 +65,19 @@ params:
   # Experience
   disable_experience: false
   experience:
+  - company: "Pittsburgh Ballet Theatre"
+      # id: "PBT" // use this, when you want to change the id(used for navigation)
+      role: "Marketing Internship"
+      startdate: October 2024
+      enddate: Present
+      featuredpoints: 
+        - point: Create Blog Posts - I created a blog post comparing the 2016 versions of Peter Pan and the 2024 version of Peter Pan. I highted the costumes/set, choreography, and music.
+        - point: Edit Home Website - I helped clean up and update Pittsburgh Ballet Theatre's website to stay updated and easy for users and contributors.
     - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
       role: "Computer Science classes Pertaining to Integrated Informatics."
       startdate: Sep 2020
-      enddate: Present
+      enddate: May 2024
       featuredpoints: 
         - point: Data Analytics - Introduction to explore R Programming, looked at website traffic data with Google Analytics, understanding textual analysis in project papers about data, and more.  
         - point: Data Abstraction - Introduction class using Python for computational constructs and list data structures with odd nods and even nods, Inherence and abstract classes with abstract classes and methods, and more. 
