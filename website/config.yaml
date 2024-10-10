@@ -71,9 +71,9 @@ params:
       startdate: October 2024
       enddate: Present
       featuredpoints: 
-        - point: Create Blog Posts - I created a blog post comparing the 2016 versions of Peter Pan and the 2024 version of Peter Pan. I highted the costumes/set, choreography, and music.
+        - point: Create Blog Posts - I created a blog post, using WordPress, comparing the 2016 versions of Peter Pan and the 2024 version of Peter Pan. I highted the costumes/set, choreography, and music.
         - point: Edit Home Website - I helped clean up and update Pittsburgh Ballet Theatre's website to stay updated and easy for users and contributors.
-    - company: "CMPSC"
+    - company: "Computer Science Classes"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
       role: "Computer Science classes Pertaining to Integrated Informatics."
       startdate: Sep 2020
@@ -84,11 +84,11 @@ params:
         - point: Web Design - Learned and practiced how to design, implement, and maintenance a mobile-ready web sites. Used HTML and CSS. This website is a product of that class.  
         - point: Robotics - Got to build, program, and use robots like GoPiGO's, Parrot Bebop Drone's, TurtleBot's, and Evo Arm's. At the end of the class we got to show our projects off on campus. I showed off my Evo Arm project, linked down below in my projects.
         - point: SolidWorks - A class on using SolidWork's CAD software to create 3D models of parts. 
-    - company: "Other"
+    - company: "Integrated Informatics Classes"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
       role: "Classes pertaining to Integrated Informatics."
       startdate: Sep 2020
-      enddate: Dec 2022
+      enddate: Dec 2024
       featuredpoints:
         - point: Media Culture Class - Explored the role media plays in our everyday lives and studied the way media participates in the shaping of identities and cultures.
         - point: Electronic & Intermedia Art - Using electronic technologies/software and digital media as art-making tools. Studied the elements of 2D design/composition and the vocabulary used to describe it.
