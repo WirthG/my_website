@@ -75,7 +75,7 @@ params:
         - point: Edit Home Website - I helped clean up and update Pittsburgh Ballet Theatre's website to stay updated and easy for users and contributors.
     - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
-      role: "Computer Science Classes."
+      role: "Computer Science Classes"
       startdate: Sep 2020
       enddate: May 2024
       featuredpoints: 
