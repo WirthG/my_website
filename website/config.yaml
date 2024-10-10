@@ -65,9 +65,9 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Pittsburgh Ballet Theatre"
+    - company: "PBT"
       # id: "PBT" // use this, when you want to change the id(used for navigation)
-      role: "Marketing Internship"
+      role: "Pittsburgh Ballet Theatre Marketing Internship"
       startdate: October 2024
       enddate: Present
       featuredpoints: 
