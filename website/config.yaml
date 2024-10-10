@@ -75,7 +75,7 @@ params:
         - point: Edit Home Website - I helped clean up and update Pittsburgh Ballet Theatre's website to stay updated and easy for users and contributors.
     - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
-      role: "Computer Science classes Pertaining to Integrated Informatics."
+      role: "Computer Science Classes."
       startdate: Sep 2020
       enddate: May 2024
       featuredpoints: 
@@ -86,7 +86,7 @@ params:
         - point: SolidWorks - A class on using SolidWork's CAD software to create 3D models of parts. 
     - company: "Other"
       # id: "Other Classes" // use this, when you want to change the id(used for navigation)
-      role: "Classes pertaining to Integrated Informatics."
+      role: "Integrated Informatics Classes"
       startdate: Sep 2020
       enddate: Dec 2022
       featuredpoints:
