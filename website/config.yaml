@@ -124,6 +124,18 @@ params:
       featuredlink: "https://app.gitbook.com/o/ccafznlSoTWEnYlxVrpY/s/6HscC7e71NuTclvdSHxg/"
       description: "Link to my Allegheny Senior Project, learning website for beginners on 'How to Implement Vectorworks Spotlight into your Performance' as well as a GitHub link to my projects repository."
 
+    - name: "Creative Films"
+      img: "/images/Film.PNG"
+      githublink: ""
+      featuredlink: "https://www.youtube.com/playlist?list=PLLw_q0f-_QCl2PosZpaBsKt_6GlOLAJRE"
+      description: "Link to my YouTube playlist of films I created at Allegheny College."
+    
+    - name: "Creative Portfolio"
+      img: "/images/Photo Book.jpg"
+      githublink: ""
+      featuredlink: "https://griffin-wirth-creative-portfolio.netlify.app"
+      description: "Link to a portfolio website with digital photo book of photos I have taken and edited, digital art projects I have created, and theatre/music performances I have been in."
+
     - name: "Cryptography and Cryptanalysis"
       img: "images/password.jpg"
       githublink: "https://github.com/WirthG/Password_Project"
@@ -139,17 +151,8 @@ params:
       githublink: "https://github.com/CMPSC-311-Allegheny-College-Fall-2022/project2-bebop-griffin-trang"
       description: "Trang and I programed a Bebop drone to do things like fly forward and do a flip! In the repository there is a folder marked video. In it, there is a link to a short demonstration video of the program working."
 
-    - name: "Creative Portfolio"
-      img: "/images/Photo Book.jpg"
-      githublink: ""
-      featuredlink: "https://griffin-wirth-creative-portfolio.netlify.app"
-      description: "Link to a portfolio website with digital photo book of photos I have taken and edited, digital art projects I have created, and theatre/music performances I have been in."
     
-    - name: "Creative Films"
-      img: "/images/Film.PNG"
-      githublink: ""
-      featuredlink: "https://www.youtube.com/playlist?list=PLLw_q0f-_QCl2PosZpaBsKt_6GlOLAJRE"
-      description: "Link to my YouTube playlist of films I created at Allegheny College."
+
     
 
       
