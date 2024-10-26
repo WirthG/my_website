@@ -145,6 +145,12 @@ params:
       featuredlink: "https://griffin-wirth-creative-portfolio.netlify.app"
       description: "Link to a portfolio website with digital photo book of photos I have taken and edited, digital art projects I have created, and theatre/music performances I have been in."
     
+    - name: "Creative Films"
+      img: "/images/Film.PNG"
+      githublink: ""
+      featuredlink: "https://www.youtube.com/playlist?list=PLLw_q0f-_QCl2PosZpaBsKt_6GlOLAJRE"
+      description: "Link to my YouTube playlist of films I created at Allegheny College."
+    
 
       
     
