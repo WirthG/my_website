@@ -72,6 +72,7 @@ params:
       enddate: Present
       featuredpoints: 
         - point: Create Blog Posts - I created a blog post, using WordPress, comparing Jorden Morris 2016 versions of Peter Pan and Trey McIntyre 2024 version of Peter Pan. I highted the costumes/set, choreography, and music.
+        - featuredlink: "https://pbt.org/blog/a-tale-of-two-peter-pans/"
         - point: Edit Home Website - I helped clean up and update Pittsburgh Ballet Theatre's website to stay updated and easy for users and contributors.
     - company: "CMPSC"
       # id: "Computer Science Classes" // use this, when you want to change the id(used for navigation)
