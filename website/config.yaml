@@ -42,8 +42,8 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "As a graduate student at CMU in Entertainment Industry Management, I am deeply passionate about film and video game production. My passion began during my undergrad years at Allegheny College, where I took classes in Digital Marketing and Advertising, Acting and Directing for the Camera, and Lighting Production. In addition to my coursework, I have actively participated in theater productions, both as an actor and a lighting designer. These hands-on experiences have fueled my desire to contribute to the entertainment industry."
-  descripe_l2_person: "If you want to find out more about me through my projects or any of my photos that I have taken and edited myself, you can find my works [here.](#projects)"
+  descripe_l1_person: "I'm a graduate student at Carnegie Mellon University, pursuing a Master's degree in Entertainment Management. My passion for film and video game production stems from my undergraduate studies in Media and Visual Production, where I immersed myself in digital art, web design, and film classes. Throughout my whole academic journey, I've developed a skill set that spans across various creative and technical fields."
+  descripe_l2_person: "My [projects](#projects) section showcases my work in film, computer science, and photography, reflecting my dedication to blending creativity with technology."
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
     - name: Python
