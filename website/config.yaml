@@ -121,7 +121,7 @@ params:
     - name: "Senior Project"
       img: "/images/Senior Project picture.PNG"
       githublink: "https://github.com/ReadyResearchers-2023-24/GriffinWirth-Artifact/tree/docs"
-      featuredlink: "https://app.gitbook.com/o/ccafznlSoTWEnYlxVrpY/s/6HscC7e71NuTclvdSHxg/"
+      featuredlink: "https://griffinwirth.gitbook.io/vectorworks-spotlight-manual/"
       description: "Link to my Allegheny Senior Project, learning website for beginners on 'How to Implement Vectorworks Spotlight into your Performance' as well as a GitHub link to my projects repository."
 
     - name: "Creative Films"
