@@ -55,7 +55,7 @@ params:
     - name: Adobe Creative Suite
       percentage: 95
     - name: VSCode
-      percentage: 80 
+      percentage: 85 
     - name: SolidWorks(CAD)
       percentage: 85
     - name: Vectorworks Spotlight
