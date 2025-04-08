@@ -36,9 +36,9 @@ params:
   name: "Griffin Wirth"
   namecolor: ffc107
   profession: "Master of Entertainment Management"
-  github: "https://github.com/WirthG"
   email: "mailto:griffiniwirth@gmail.com"
   linkedin: "https://www.linkedin.com/in/griffin-wirth-90647a224" 
+  github: "https://github.com/WirthG"
 
   # About
   disable_about: false
