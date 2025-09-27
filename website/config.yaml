@@ -106,7 +106,7 @@ params:
   disable_education: false
   education:
     - degree: "CMU/Heinz College"
-      branch: "Pittsburgh, PA/North Hollywood LA"
+      branch: "Pittsburgh, PA/Los Angeles, CA"
       university: "Master of Entertainment Industry Management"
       startedyear: "2024"
       graduation: "2026"
