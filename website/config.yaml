@@ -56,8 +56,6 @@ params:
       percentage: 95
     - name: VSCode
       percentage: 85 
-    - name: R
-      percentage: 90
     - name: Vectorworks Spotlight
       percentage: 95
 
@@ -65,7 +63,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Pittsburgh Film Office"
+    - company: "PFO"
       # id: "PFO" // use this, when you want to change the id(used for navigation)
       role: "Pittsburgh Film Office: Film Trails App Project Manager"
       startdate: January 2025
