@@ -63,6 +63,25 @@ params:
   # Experience
   disable_experience: false
   experience:
+    - company: "Studio 71"
+      # id: "71" // use this, when you want to change the id(used for navigation)
+      role: "Gaming Creator Internship"
+      startdate: September 2025
+      enddate: December 2025
+      featuredpoints: 
+        - point: Researched and analyzed gaming creators and current clients to identify talent opportunities for the network
+        - point: Pulled and interpreted social media data to assess platform trends and performance metrics
+        - point: Learned the full talent acquisition process, from initial outreach to contract negotiation
+        - point: Observed brand deal execution from the talent perspective, including internal pitching processes
+    - company: "Eris Talent Agency"
+      # id: "Eris" // use this, when you want to change the id(used for navigation)
+      role: "Agency Intern"
+      startdate: June 2025
+      enddate: August 2025
+      featuredpoints: 
+        - point: Worked under talent agent Anita McKorn to submit talent via CastingNetworks.com and Actors Access, share audition/media requests, and scout new talent for representation"
+        - point: Reviewed and provided feedback on talent profiles, necessary updates, and offered ongoing support to clients
+        - point: Assisted with contract negotiations, on-set issues, and communication between agents, casting, and production
     - company: "PFO"
       # id: "PFO" // use this, when you want to change the id(used for navigation)
       role: "Pittsburgh Film Office: Film Trails App Project Manager"
@@ -70,7 +89,7 @@ params:
       enddate: November 2025
       featuredpoints: 
         - point: Secured a $100,000 state grant to develop the "Film Trail Project"
-        - point: Created an app showcasing Pittsburgh’s past film and TV productions
+        - point: Created an app showcasing Pittsburgh's past film and TV productions
         - point: Researched production locations, economical facts, and film/TV trivia
     - company: "PBT"
       # id: "PBT" // use this, when you want to change the id(used for navigation)
