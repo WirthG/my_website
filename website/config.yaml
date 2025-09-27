@@ -47,17 +47,17 @@ params:
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
     - name: WordPress
-      percentage: 70
-    - name: R
-      percentage: 90
+      percentage: 85
+    - name: Casting Networks/Actors Access
+      percentage: 95
     - name: Windows
       percentage: 90
     - name: Adobe Creative Suite
       percentage: 95
     - name: VSCode
       percentage: 85 
-    - name: SolidWorks(CAD)
-      percentage: 85
+    - name: R
+      percentage: 90
     - name: Vectorworks Spotlight
       percentage: 95
 
@@ -65,6 +65,15 @@ params:
   # Experience
   disable_experience: false
   experience:
+    - company: "Pittsburgh Film Office"
+      # id: "PFO" // use this, when you want to change the id(used for navigation)
+      role: "Pittsburgh Film Office: Film Trails App Project Manager"
+      startdate: January 2025
+      enddate: November 2025
+      featuredpoints: 
+        - point: Secured a $100,000 state grant to develop the "Film Trail Project"
+        - point: Created an app showcasing Pittsburgh’s past film and TV productions
+        - point: Researched production locations, economical facts, and film/TV trivia
     - company: "PBT"
       # id: "PBT" // use this, when you want to change the id(used for navigation)
       role: "Pittsburgh Ballet Theatre Marketing Internship"
