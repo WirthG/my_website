@@ -46,7 +46,7 @@ params:
   descripe_l2_person: "My [projects](#projects) section showcases my work in film, computer science, and photography, reflecting my dedication to blending creativity with technology."
   descripe_l3_person: "If you want to get in touch with me, my email is here." 
   skills:
-    - name: WordPress
+    - name: DaVinci Resolve
       percentage: 85
     - name: Casting Networks/Actors Access
       percentage: 95
